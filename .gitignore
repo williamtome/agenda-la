@@ -1,0 +1,5 @@
+node_modules
+.env
+pocs/node_modules
+pocs/.env
+.next
