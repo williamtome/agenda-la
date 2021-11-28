@@ -107,11 +107,11 @@ export default function Example() {
           <div className='flex justify-start lg:w-0 lg:flex-1'>
             <Link href='/'>
               <a>
-                <span className='sr-only'>Workflow</span>
+                <span className='sr-only'>Agenda Lá</span>
                 <img
                   className='h-8 w-auto sm:h-10'
-                  src='https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg'
-                  alt=''
+                  src='/agenda-la.png'
+                  alt='Agenda Lá'
                 />
               </a>
             </Link>
@@ -176,8 +176,8 @@ export default function Example() {
                     <a>
                       <img
                         className='h-8 w-auto'
-                        src='https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg'
-                        alt='Workflow'
+                        src='/agenda-la.png'
+                        alt='Agenda Lá'
                       />
                     </a>
                   </Link>
