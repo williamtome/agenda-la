@@ -13,7 +13,7 @@ const read = async () => {
   })
   data.results.forEach((result) => {
     const blockedDate = result.properties
-    console.log(blockedDate)
+    console.log(blockedDate.Date.date.start)
   })
 }
 
