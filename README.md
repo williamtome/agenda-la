@@ -1,10 +1,18 @@
 <p align="center"><a href="#" target="_blank"><img src="https://github.com/williamtome/agenda-la/blob/master/public/agenda-la.png?raw=true"></a></p>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
 </p>
+
+## Technologies
+
+- JavaScript
+- React.js 17
+- Next.js 12
+- Node.js 16
+- TailwindCSS 2.2.16
 
 ## Install
 
